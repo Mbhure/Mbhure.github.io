@@ -33,8 +33,9 @@
 
 .infoContainer{
     background-color: rgb(51, 253, 0);
-    height:14vw ;
+    height:78vh ;
     width: 80vw;
     margin: 144px auto;
+    display: flex;
     
 }
